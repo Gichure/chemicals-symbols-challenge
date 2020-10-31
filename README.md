@@ -1,4 +1,7 @@
-# dzone-chemicals-symbols
+# Chemical Symbols Challenge
+
+This was inspired by the [Java Code Challenge](https://dzone.com/articles/java-code-challenge-chemical-symbol-naming-part-on)  
+
 The inhabitants of the planet Splurth are building their own periodic table of the elements. Just like Earth's periodic table has a chemical symbol for each element (H for Hydrogen, Li for Lithium, etc.), so does Splurth's. However, their chemical symbols must follow certain rules:
 
     All chemical symbols must be exactly two letters, so B is not a valid symbol for Boron.
